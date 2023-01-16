@@ -11,4 +11,9 @@ public class App {
     public String logout(){
         return "Query success!";
     }
+
+    public String query(){
+        return "Query success!";
+    }
+}
 }
