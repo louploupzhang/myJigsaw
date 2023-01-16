@@ -6,4 +6,9 @@ public class App {
         new LoginJFrame();
         //new GameJFrame();
     }
+
+    //Conflict1
+    public String query(){
+        return "Query success!";
+    }
 }
